@@ -1,0 +1,44 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "Товар 1",
+      "price": 101,
+      "priceWithoutDiscount": 201,
+      "srcMainImg": "img/bread_1.jpeg",
+      "srcDescriptionImg": "img/bread_1.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae.",
+      "consist": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae."
+    },
+    {
+      "id": 2,
+      "name": "Товар 2",
+      "price": 102,
+      "priceWithoutDiscount": null,
+      "srcMainImg": "img/bread_2.jpeg",
+      "srcDescriptionImg": "img/bread_2.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae.",
+      "consist": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae."
+    },
+    {
+      "id": 3,
+      "name": "Товар 3",
+      "price": 103,
+      "priceWithoutDiscount": 203,
+      "srcMainImg": "img/bread_3.jpeg",
+      "srcDescriptionImg": "img/bread_3.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae.",
+      "consist": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae."
+    },
+    {
+      "id": 4,
+      "name": "Товар 4",
+      "price": 104,
+      "priceWithoutDiscount": null,
+      "srcMainImg": "img/bread_4.jpeg",
+      "srcDescriptionImg": "img/bread_4.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae.",
+      "consist": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque debitis in libero quisquam unde vitae."
+    }
+  ]
+}
